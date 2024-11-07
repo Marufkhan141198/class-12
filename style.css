@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    height: 280px;
+    background-image: url('bg image.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: ;
+}
+.h {
+    text-align: center;
+    color: white;
+    background-color: brown;
+    font-size: 30px;
+    height: 50px;
+    padding-top: 2px;
+
+}
+.p {
+    background-color: rgb(19, 196, 57);
+    color: aliceblue;
+}
+.pitem {
+    width: 24.59%;
+    height: 300px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 2px;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.project {
+    height: 600px;
+    margin-top: px;
+
+}
+.color {
+    height: 5px;
+    background-color: blue;
+}
+.color1 {
+    height: 5px;
+    background-color: brown;
+}
+.color3 {
+    height: 5px;
+    background-color: aqua;
+}
+.pi {
+  background-color: rgb(19, 196, 57); 
+  color: white;
+  text-align: center; 
+}
